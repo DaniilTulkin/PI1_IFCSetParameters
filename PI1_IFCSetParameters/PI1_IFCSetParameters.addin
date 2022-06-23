@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_IFCSetParameters</Name>
+		<Assembly>PI1_IFCSetParameters.dll</Assembly>
+		<AddInId>6DE04E72-E81A-49D2-AFF3-8C980DFD8639</AddInId>
+		<FullClassName>PI1_IFCSetParameters.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
